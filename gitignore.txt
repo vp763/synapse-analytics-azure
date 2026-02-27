@@ -1,0 +1,17 @@
+# Secrets — NEVER upload these
+*.key
+*.pem
+secrets.txt
+connection_string.txt
+.env
+
+# Azure credentials
+*.publishsettings
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.log
