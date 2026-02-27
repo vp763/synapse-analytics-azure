@@ -120,4 +120,4 @@ display(df_counts)
 ---
 
 ## Author
-Built as part of Microsoft Azure Synapse Analytics learning path.
+Vishal Prajapati
